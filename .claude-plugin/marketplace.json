@@ -1,0 +1,13 @@
+{
+  "name": "pocuston-skills",
+  "owner": { "name": "Kuba" },
+  "description": "A collection of model-agnostic Agent Skills for Claude, ChatGPT and other compatible agents.",
+  "plugins": [
+    {
+      "name": "socratic-reading",
+      "source": "./plugins/socratic-reading",
+      "description": "Test and deepen your understanding of anything you've read through Socratic questioning.",
+      "category": "learning"
+    }
+  ]
+}
