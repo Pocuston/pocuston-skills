@@ -1,5 +1,7 @@
 # Socratic Reading
 
+<img src=".claude-plugin/icon.png" alt="Socratic Reading — Socrates in a speech bubble" width="128" height="128">
+
 A skill that checks and deepens your understanding of something you've already read: a book, article, paper, web page, documentation or transcript. Upload the file, paste the text or share a link, and the model asks you questions instead of summarizing for you.
 
 ## How it works
